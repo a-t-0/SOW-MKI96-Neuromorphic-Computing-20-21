@@ -7,7 +7,10 @@ This repository can be used to generate your planning (what will be done and in 
 ### What you get: 
 
 0. a list of taskwarrior commands of all tasks you need to complete (succesfully) to pass this course. 
-1. A (link to a) google calendar with all your deadlines of this course in it.
+1. A (link to a) google calendar with all your deadlines of this course in it:
+https://calendar.google.com/calendar?cid=Z2Nzcm91dHRvaHNncDFycWpoMXIwNDFoZWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ
+
+
 
 ### What someone needs to do:
 	
